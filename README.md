@@ -1,6 +1,6 @@
 **This project is the second place solution of Amazon KDD CUP 2024 track 5.**
 
-**we introduce a pipeline containing three parts:**
+**We introduce a pipeline containing three parts:**
 *  **base model selection**
 *  **pre-trained model quantization**
 *  **prompt design and hyperparameter tuning**
