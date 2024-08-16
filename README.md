@@ -1,3 +1,7 @@
+This project is the second place solution of Amazon KDD CUP 2024 track 5.
+The following is the introduction of this competition:
+
+
 ![AMAZON KDD CUP 2024: MULTI-TASK ONLINE SHOPPING CHALLENGE FOR LLMS](https://aicrowd-production.s3.eu-central-1.amazonaws.com/challenge_images/amazon-kdd-cup-2024/amazon-kdd-cup-24-banner.jpg)
 [![Discord](https://img.shields.io/discord/565639094860775436.svg)](https://discord.gg/yWurtB2huX)
 
